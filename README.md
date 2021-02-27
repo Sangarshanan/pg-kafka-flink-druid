@@ -57,6 +57,5 @@ Shut this shit down
 docker-compose -f docker-compose.yaml down
 ```
 
-Material
 
 - https://noti.st/morsapaes/liQzgs/change-data-capture-with-flink-sql-and-debezium
