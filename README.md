@@ -1,4 +1,4 @@
-# PG <-> Kafka <-> Flink
+# Pipeline
 
 Start the containers
 
